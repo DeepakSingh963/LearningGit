@@ -10,3 +10,8 @@ console.log(login);
 //master 2nd commit:
 let footer = "footer Page Added";
 console.log(footer);
+//1st commit:-->paymentSystem;
+let payment = "Intgrating Payment System";
+console.log(payment);
+
+
