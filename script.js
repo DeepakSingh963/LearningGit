@@ -7,3 +7,6 @@ console.log(nav);
 let login = "Login Page Added";
 console.log(login);
 
+//master 2nd commit:
+let footer = "footer Page Added";
+console.log(footer);
